@@ -1,0 +1,14 @@
+baseurl = "http://spawnris.github.io"
+title = "Spawnris's blog"
+languageCode = "en-us"
+disqusShortname = "spawnris"
+copyright = "Copyright (c) 2015, Spawnris; all rights reserved."
+MetaDataFormat = "yaml"
+
+[author]
+    name = "Spawnris"
+
+[indexes]
+    tag = "tags"
+    topic = "topics"
+
