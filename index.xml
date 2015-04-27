@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on Spawnris&#39;s blog </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/</link>
+    <language>en-us</language>
+    <author>Spawnris</author>
+    <copyright>Copyright (c) 2015, Spawnris; all rights reserved.</copyright>
+    <updated>Mon, 20 Apr 2015 18:00:04 CST</updated>
+    
+    <item>
+      <title>test code</title>
+      <link>http://localhost:1313/code/helloworld/</link>
+      <pubDate>Mon, 20 Apr 2015 18:00:04 CST</pubDate>
+      <author>Spawnris</author>
+      <guid>http://localhost:1313/code/helloworld/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-tset:b0550240c0a1b7c12779ff8220a94c0f&#34;&gt;test tset&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>俺</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 20 Apr 2015 00:37:04 CST</pubDate>
+      <author>Spawnris</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-me:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Me&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spawnris, 简称老高&lt;/li&gt;
+&lt;li&gt;东北人在珠海&lt;/li&gt;
+&lt;li&gt;程序猿一枚&lt;/li&gt;
+&lt;li&gt;Gmail: Spawnris@gmail.com&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;主修:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;主修&lt;/h2&gt;
+
+&lt;p&gt;Life is Shit, Go Pythonic!!! 大一偶然机会遇到ZoomQuiet大妈,被其宣传的Pythonic所感化.持续学习中.&lt;br /&gt;
+PHP是最好的语言！大二时为了获取晚间不断网的资格给学院制作网站,从此走上PHP的不归路,竟想不到毕业后居然靠其吃饭.&lt;br /&gt;
+Go Go Go! 大四为Golang牛逼的身世所动容,决定毕业设计用它来唬住老师,后来发现这货不仅仅是身世牛逼.&lt;/p&gt;
+
+&lt;h2 id=&#34;辅修:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;辅修&lt;/h2&gt;
+
+&lt;p&gt;不折腾会死星人,喜欢参加各种团,各种会.举办过各种活动.后参加GDG ZhuHAi,成为其一员.组织技术分享,从分享中学习技术,跟随大拿的脚步，一路前行.&lt;/p&gt;
+
+&lt;h2 id=&#34;stay-hungry-stay-foolish-never-give-up:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Stay hungry. Stay foolish. Never Give Up.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test life</title>
+      <link>http://localhost:1313/life/helloworld/</link>
+      <pubDate>Mon, 20 Apr 2015 00:37:04 CST</pubDate>
+      <author>Spawnris</author>
+      <guid>http://localhost:1313/life/helloworld/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-life:b0550240c0a1b7c12779ff8220a94c0f&#34;&gt;Test Life&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

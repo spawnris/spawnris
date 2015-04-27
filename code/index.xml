@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Codes on Spawnris&#39;s blog </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/code/</link>
+    <language>en-us</language>
+    <author>Spawnris</author>
+    <copyright>Copyright (c) 2015, Spawnris; all rights reserved.</copyright>
+    <updated>Mon, 20 Apr 2015 18:00:04 CST</updated>
+    
+    <item>
+      <title>test code</title>
+      <link>http://localhost:1313/code/helloworld/</link>
+      <pubDate>Mon, 20 Apr 2015 18:00:04 CST</pubDate>
+      <author>Spawnris</author>
+      <guid>http://localhost:1313/code/helloworld/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-tset:b0550240c0a1b7c12779ff8220a94c0f&#34;&gt;test tset&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
