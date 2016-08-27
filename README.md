@@ -1,4 +1,4 @@
 # spawnris
 Blog
 
-test hook1
+test hook2
